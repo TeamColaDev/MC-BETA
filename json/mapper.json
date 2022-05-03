@@ -1,0 +1,14 @@
+{
+        "'l. wasser.' and 'feuerwehrleute'" : {"name" : "löschfahrzeuge", "qty" : "1"},
+        "'Zusätzlich benötigte Fahrzeuge' and 'l. Wasser'" : {"name" : "löschfahrzeuge", "qty" : "1"},
+        "'litros de água'" : {"name" : "litros de água", "qty" : "1"},
+        "'litrów piany gaśniczej'" : {"name" : "samochody ze zbiornikiem na piane", "qty" : "1"},
+        "'litrów wody'" : {"name" : "samochód pożarniczy", "qty" : "1"},
+        "'policjanci SPKP' and 'policjanci spkp'" : {"name" : "policjanci spkp", "qty" : "1"},
+        "'policjanci' and 'Policjanci'" : {"name" : "radiowozy", "qty" : "1"},
+        "'We need' and 'more firefighter'" : {"name" : "fire engine", "qty" : "1"},
+        "'Needed vehicles:' and 'gal. foam'" : {"name" : "foam", "qty" : "2"},
+        "'Needed vehicles:' and 'gal. water'" : {"name" : "water", "qty" : "2"},
+        "'Educated personnel' and 'EMS Mobile Command'" : {"name" : "ems chief", "qty" : "1"},
+        "'We need' and 'more firefighter'" : {"name" : "firetruck", "qty" : "1"}
+}
